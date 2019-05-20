@@ -74,7 +74,7 @@ Accept wildcard characters: False
 ```
 
 ### -RoleObjectId
-Specifies the unique ID of the role from which to remove members.
+Specifies the unique ID of the role to retrieve members for.
 
 ```yaml
 Type: Guid
